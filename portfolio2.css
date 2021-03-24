@@ -1,0 +1,23 @@
+body{
+    background-color:pink;
+    color:white;
+    font-family:'Train One';
+    font-size:xx-large;
+    line-height:1.6em;
+    margin:0%;
+}
+.container{
+    width: 100%;
+    margin:auto;
+    overflow:hidden;
+}
+.container-fluid{
+    background-color:#535d6b;
+    color:yellow;
+}
+.row{
+    padding: 20%;
+    background-color:#535d6b;
+    color: #535d6b;
+}
+
